@@ -1,4 +1,4 @@
-## ⭐Project 01- Food Restaurant Home Page ⭐
+## ⭐Project 02- Food Restaurant Home Page ⭐
 
 <br>
 
