@@ -14,15 +14,15 @@
 
 ## 📌 What I Learned:
 
-- ### Learned about opacity.
-- ### Learned background image proerty.
-- ### Learned about Flexbox.
+- ### Learned about opacity
+- ### Learned background image proerty
+- ### Learned about Flexbox
 
 <br>
 
 ## 📌 Time Taken To Complete This Project:
 
-- ### It took me 2 hours to complete this project.
+- ### It took me 2 hours to complete this project
 
 <br>
 
